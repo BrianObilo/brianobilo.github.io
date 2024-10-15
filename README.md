@@ -1,4 +1,4 @@
-# Accessible Online Security | A Mozilla Open Leaders X Program 
+# Accessible Online Security | A Mozilla Open Leaders X P
 
 The Accessible Online Security program is a training and mentorship program aimed at imparting knowledge and practical experience on Online Security and Digital Privacy to members of our community. With the increased migration of operations online (eg. business, education, ), there is a need to ensure people keep their digital data safe. This program aims at raising awareness and next generation of digital safety activists. Over a period of 14 weeks, starting from February 2020, this program will focus on three key main areas as our pillars:
 1. Information Security
