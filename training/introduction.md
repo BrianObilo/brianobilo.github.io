@@ -82,7 +82,7 @@ Who is behind cyber attacks?
 * Competitors  
 *	Political activists commonly known as Hacktivists
 
-Next >  [3. Cybersecurity Threats](https://champions.boltech.global/)
+Next >  [3. Cybersecurity Threats]([https://champions.boltech.global/](https://champions.boltech.global/training/cybersecuritythreats))
 
 
 
