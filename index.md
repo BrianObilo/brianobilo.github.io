@@ -58,7 +58,7 @@ This project is licensed under the [Mozilla Public License 2.0](https://github.c
 
 ## Contacts
 1. __Mentorship and Traning__ - If you want to be a mentor or trainer for our next cohort, kindly contact [laura@boltech.global](mailto:laura@boltech.global){:target="_blank"}. 
-2. __Social Media__ - Follow us on X [@digisafety](https://x.com/boltech_global){:target="_blank"}. 
+2. __Social Media__ - Follow us on X [@boltech.global](https://x.com/boltech_global){:target="_blank"}. 
 
 ## Acknowledgements
 
