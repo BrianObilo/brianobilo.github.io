@@ -1,15 +1,15 @@
 ## Table of Contents
 
-1. [Introduction](https://digital-safety.net)
-1. [Introduction to Cybersecurity](https://digital-safety.net/training/introduction)
-1. [Cybersecurity Threats](https://digital-safety.net/training/cybersecuritythreats)
-    * [3.1 Social Engineering](https://digital-safety.net/training/socialengineering)
-    * [3.2 Malware](https://digital-safety.net/training/malware)
-    * [3.3 Malicious Websites](https://digital-safety.net/training/maliciouswebsites)
-1. [Personal Security](https://digital-safety.net/training/personalsecurity)
-1. [Password Security](https://digital-safety.net/training/passwordsecurity)
-1. [Secure Online Communications](https://digital-safety.net/training/securecommunications)
-    * [6.1 Secure your Instant Messaging Apps](https://digital-safety.net/training/secureim)
+1. [Introduction](https://champions.boltech.global/)
+1. [Introduction to Cybersecurity](https://champions.boltech.global/training/introduction)
+1. [Cybersecurity Threats](https://champions.boltech.global/training/cybersecuritythreats)
+    * [3.1 Social Engineering](https://champions.boltech.global/training/socialengineering)
+    * [3.2 Malware](https://champions.boltech.global/training/malware)
+    * [3.3 Malicious Websites](https://champions.boltech.global/training/maliciouswebsites)
+1. [Personal Security](https://champions.boltech.global/training/personalsecurity)
+1. [Password Security](https://champions.boltech.global/training/passwordsecurity)
+1. [Secure Online Communications](https://champions.boltech.global/training/securecommunications)
+    * [6.1 Secure your Instant Messaging Apps](https://champions.boltech.global/training/secureim)
     
 # 5. Password Security 
 
@@ -97,7 +97,7 @@ There are pros and cons to this method.
 * [You need a password manager](https://medium.com/swlh/set-up-your-own-personal-password-vault-313d76374046){:target="_blank"} 
 * [7 Password Experts on How to Lock Down Your Online Security](https://www.wired.com/2016/05/password-tips-experts/){:target="_blank"}
 
-Next > [6. Secure Online Communications](https://digital-safety.net/training/securecommunications)
+Next > [6. Secure Online Communications](https://champions.boltech.global/training/securecommunications)
 
  
 
