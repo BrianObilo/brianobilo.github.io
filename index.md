@@ -2,7 +2,7 @@
 
 1. [Introduction](https://champions.boltech.global/)
 1. [Introduction to Cybersecurity](https://champions.boltech.global/training/introduction)
-1. [Cybersecurity Threats](https://digital-safety.net/training/cybersecuritythreats)
+1. [Cybersecurity Threats](https://champions.boltech.global/training/cybersecuritythreats)
     * [3.1 Social Engineering](https://champions.boltech.global/training/socialengineering)
     * [3.2 Malware](https://champions.boltech.global/training/malware)
     * [3.3 Malicious Websites](https://champions.boltech.global/training/maliciouswebsites)
