@@ -3,13 +3,13 @@
 1. [Introduction](https://champions.boltech.global/)
 1. [Introduction to Cybersecurity](https://champions.boltech.global/training/introduction)
 1. [Cybersecurity Threats](https://digital-safety.net/training/cybersecuritythreats)
-    * [3.1 Social Engineering](https://digital-safety.net/training/socialengineering)
-    * [3.2 Malware](https://digital-safety.net/training/malware)
-    * [3.3 Malicious Websites](https://digital-safety.net/training/maliciouswebsites)
-1. [Personal Security](https://digital-safety.net/training/personalsecurity)
-1. [Password Security](https://digital-safety.net/training/passwordsecurity)
-1. [Secure Online Communications](https://digital-safety.net/training/securecommunications)
-    * [6.1 Secure your Instant Messaging Apps](https://digital-safety.net/training/secureim) 
+    * [3.1 Social Engineering](https://champions.boltech.global/training/socialengineering)
+    * [3.2 Malware](https://champions.boltech.global/training/malware)
+    * [3.3 Malicious Websites](https://champions.boltech.global/training/maliciouswebsites)
+1. [Personal Security](https://champions.boltech.global/training/personalsecurity)
+1. [Password Security](https://champions.boltech.global/training/passwordsecurity)
+1. [Secure Online Communications](https://champions.boltech.global/training/securecommunications)
+    * [6.1 Secure your Instant Messaging Apps](https://champions.boltech.global/training/secureim) 
     
 # 1. Introduction
 
@@ -73,5 +73,5 @@ This project is licensed under the [Mozilla Public License 2.0](https://github.c
 
 This training and mentoring program would not be possible without funding from our Sponsor [e.KRAAL Innovation Hub](https://e-kraal.com/){:target="_blank"} , our resourceful Trainers & Mentors, the Mozilla Open Leaders X Program Leads - [Abigail Cabunoc](https://twitter.com/abbycabs){:target="_blank"} & [Chad Sansing](https://twitter.com/chadsansing){:target="_blank"}  and our incredible Mozilla Champion - [Selina Musuta](https://twitter.com/Pumzi_Code){:target="_blank"} . 
 
-__Next__ > [2. Introduction to Cybersecurity](https://digital-safety.net/training/introduction) 
+__Next__ > [2. Introduction to Cybersecurity](https://champions.boltech.global/training/introduction) 
 
