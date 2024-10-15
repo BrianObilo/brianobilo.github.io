@@ -1,7 +1,7 @@
 ## Table of Contents
 
-1. [Introduction](https://digital-safety.net)
-1. [Introduction to Cybersecurity](https://digital-safety.net/training/introduction)
+1. [Introduction](https://champions.boltech.global/)
+1. [Introduction to Cybersecurity](https://champions.boltech.global/training/introduction)
 1. [Cybersecurity Threats](https://digital-safety.net/training/cybersecuritythreats)
     * [3.1 Social Engineering](https://digital-safety.net/training/socialengineering)
     * [3.2 Malware](https://digital-safety.net/training/malware)
